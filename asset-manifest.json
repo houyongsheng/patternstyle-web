@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/patternstyle-web/static/css/main.c753bcd2.css",
-    "main.js": "/patternstyle-web/static/js/main.455991ad.js",
+    "main.css": "/patternstyle-web/static/css/main.db7647fd.css",
+    "main.js": "/patternstyle-web/static/js/main.a305239e.js",
     "static/js/453.94ad2b71.chunk.js": "/patternstyle-web/static/js/453.94ad2b71.chunk.js",
     "index.html": "/patternstyle-web/index.html",
-    "main.c753bcd2.css.map": "/patternstyle-web/static/css/main.c753bcd2.css.map",
-    "main.455991ad.js.map": "/patternstyle-web/static/js/main.455991ad.js.map",
+    "main.db7647fd.css.map": "/patternstyle-web/static/css/main.db7647fd.css.map",
+    "main.a305239e.js.map": "/patternstyle-web/static/js/main.a305239e.js.map",
     "453.94ad2b71.chunk.js.map": "/patternstyle-web/static/js/453.94ad2b71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c753bcd2.css",
-    "static/js/main.455991ad.js"
+    "static/css/main.db7647fd.css",
+    "static/js/main.a305239e.js"
   ]
 }
